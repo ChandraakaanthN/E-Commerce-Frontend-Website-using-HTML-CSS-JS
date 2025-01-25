@@ -1,1 +1,1 @@
-# E-Commerce-Frontend-Website-using-HTML-CSS-JAVASCRIPT
+# E-Commerce-Frontend-Website-using-HTML-CSS-JS
